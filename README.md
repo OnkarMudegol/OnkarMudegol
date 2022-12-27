@@ -30,23 +30,19 @@
 <h2> Trophies:</h2>
     <img src="https://github-profile-trophy.vercel.app/?username=OnkarMudegol&theme=algolia">
 
-<h2>Connect with me:</h2>    
-<div align="left">
-  <a href="https://www.linkedin.com/in/onkar-mudegol/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://stackoverflow.com/users/20851978/onkar-mudegol" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/Onkar_Mudegol?hr_r=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.instagram.com/onkar_mudegol/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/Onkar_Mudegol" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://linktr.ee/OnkarMudegol" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-</div>
+<h2>Connect with me:</h2>   
+ <a href="https://www.linkedin.com/in/onkar-mudegol/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="https://twitter.com/Onkar_Mudegol" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+ </a>
+ <a href="https://www.instagram.com/onkar_mudegol/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+ </a>
+ <a href="https://stackoverflow.com/users/20851978/onkar-mudegol" target="_blank">
+    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>
+ </a>
+ <a href="https://linktr.ee/OnkarMudegol" target="_blank">
+    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
+ </a>
