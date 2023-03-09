@@ -3,7 +3,7 @@
 <h2> About me</h2>
 <list>
     <li>🧠 I'm an AI enthusiast with interests in automation and Data storage & analytics
-    <li>🌱 I’m currently learning Python, Html & CSS
+    <li>🌱 I’m currently learning Python, Html & CSS, C
     <li>💞️ I’m looking to collaborate with other amazing developers
     <li>🥅 Goal in life: To accomplish something worthwhile
 </list>
