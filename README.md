@@ -3,7 +3,7 @@
 <h2> About me</h2>
 <list>
     <li>🧠 I'm an AI enthusiast with interests in automation and Data storage & analytics
-    <li>🌱 I’m currently learning Python, Html & CSS, C
+    <li>🌱 I’m proficient in Python, Html & CSS, JS, C, C++
     <li>💞️ I’m looking to collaborate with other amazing developers
     <li>🥅 Goal in life: To accomplish something worthwhile
 </list>
@@ -22,10 +22,12 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" width="52" alt="c++ logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" height="40" width="52" alt="cisco logo"  />
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="40" width="52" alt="canva logo"  />
   
 </div>
