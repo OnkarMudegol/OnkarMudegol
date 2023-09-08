@@ -18,7 +18,7 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnkarMudegol&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2> ⚒️ Laungauges and Tools I am proficient with:</h2>
+<h2> ⚒️ Laungauges and Tools I am proficient in:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" width="52" alt="c logo"  />
@@ -29,6 +29,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" height="40" width="52" alt="cisco logo"  />
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="40" width="52" alt="canva logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/AutoCad_logo.svg" height="40" width="70" alt="Autocad logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" height="40" width="70" alt="SQL logo"  />
+ 
   
 </div>
 
@@ -45,9 +48,6 @@
  <a href="https://www.instagram.com/onkar_mudegol/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
- <a href="https://stackoverflow.com/users/20851978/onkar-mudegol" target="_blank">
-    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>
- </a>
- <a href="https://linktr.ee/OnkarMudegol" target="_blank">
-    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
+ <a href="discordapp.com/users/onkarmudegol" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
  </a>
