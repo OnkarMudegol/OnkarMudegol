@@ -29,7 +29,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" height="40" width="52" alt="cisco logo"  />
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="40" width="52" alt="canva logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/AutoCad_logo.svg" height="40" width="70" alt="Autocad logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" height="40" width="70" alt="SQL logo"  />
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" height="40" width="70" alt="SQL logo"  /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="95" alt="SQL logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="70" alt="Oracle logo"  />
  
   
 </div>
