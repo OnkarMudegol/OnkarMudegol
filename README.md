@@ -2,10 +2,9 @@
 
 <h2> About me</h2>
 <list>
-    <li>🧠 I'm an AI enthusiast with interests in automation and Data storage & analytics
-    <li>🌱 I’m proficient in Python, Html & CSS, JS, C, C++
-    <li>💞️ I’m looking to collaborate with other amazing developers
-    <li>🥅 Goal in life: To accomplish something worthwhile
+    <li>🧠 I'm an AI/ML enthusiast with interests in Automation, Data storage & Analytics. I am also a car enthusiast and also have keen interests in     &ensp;&ensp; business and politics.
+    <li>🌱 I’m proficient in Python, Html & CSS, JS, C, C++ Laungauges.
+    <li>💞️ I’m looking to collaborate with other amazing developers.
 </list>
 
 </list>
