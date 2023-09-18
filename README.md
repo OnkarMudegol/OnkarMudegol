@@ -2,7 +2,7 @@
 
 <h2> About me</h2>
 <list>
-    <li>🧠 I'm an AI/ML enthusiast with interests in Automation, Data storage & Analytics. I am also a car enthusiast and also have keen interests in     &ensp;&ensp; business and politics.
+    <li>🧠 An AI/ML enthusiast with interests in Automation, Data storage & Analytics, Cars, Politics, Business and Aviation.
     <li>🌱 I’m proficient in Python, Html & CSS, JS, C, C++ Laungauges.
     <li>💞️ I’m looking to collaborate with other amazing developers.
 </list>
