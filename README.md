@@ -38,6 +38,9 @@
 
 <h2> Trophies:</h2>
     <img src="https://github-profile-trophy.vercel.app/?username=OnkarMudegol&theme=algolia">
+    <img src="https://holopin.me/onkar_mudegol">
+
+
 
 <h2>Connect with me:</h2>   
  <a href="https://www.linkedin.com/in/onkar-mudegol/" target="_blank">
