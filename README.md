@@ -9,7 +9,7 @@
 
 </list>
 <div>
-    <h2>🔥 My Stats:</h2>
+    <h2>My Stats:</h2>
         
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OnkarMudegol&theme=tokyonight)](https://git.io/streak-stats)
